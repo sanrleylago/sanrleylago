@@ -1,4 +1,4 @@
-### Olá✌️, eu sou o Sanrley Lago. 
+### Olá✌️, me chamo Sanrley Lago. 
 - 👨🏻‍💻 Estudante de Análise e Desenvolvimento de Sistemas.  
 - 📚 Aprendendo HTML, CSS e Java. 
 - 🧔🏻 Ele/Dele
