@@ -1,6 +1,6 @@
 ### Olá, sou o Sanrley, bem vindo ao meu perfil. 💡🤞🏻
 - 👨🏻‍💻 Estudante de Análise e Desenvolvimento de Sistemas.  
-- 📚 Aprendendo HTML, CSS e Java. 
+- 📚 Aprendendo HTML, CSS e JS. 
 - 🧔🏻 Ele/Dele
 
 <div align="center">
